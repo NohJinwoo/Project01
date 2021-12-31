@@ -1,7 +1,7 @@
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Noh Jin Woo");
+		System.out.println("노 진 우");
 
 	}
 
